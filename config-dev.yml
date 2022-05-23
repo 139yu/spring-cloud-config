@@ -1,3 +1,5 @@
+config:
+  info: main branch,spring-cloud-config/config-dev.yml,version=1
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
